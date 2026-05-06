@@ -32,7 +32,7 @@ const Biosection = () => {
     <a href="https://www.linkedin.com/in/sahaj-asim-72567a294/?skipRedirect=true" target='_blank'>
     <img className='h-5 w-5 active:scale-95  hover:scale-125 transition-transform' src={linkedin} lin />
     </a>
-    <a href="https://github.com/Codemaster929?tab=overview&from=2026-03-01&to=2026-03-22" target='_blank'>
+    <a href="https://github.com/Sahaj-Asim?tab=overview&from=2026-03-01&to=2026-03-22" target='_blank'>
     <img className='h-5 w-5 active:scale-95 hover:scale-125 transition-transform' src={github} alt="" />
     </a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahaj.asim.official@gmail.com&su=Portfolio Inquiry" target='_blank'>
